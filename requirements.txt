@@ -5,3 +5,9 @@ pandas
 torch
 torchvision==0.13.1
 tqdm==4.64.0
+re
+nltk
+pandas
+requests
+spacy
+bs4
