@@ -7,7 +7,6 @@ nltk
 pandas
 requests
 spacy
-en_core_web_md
 bs4
 torchvision==0.13.1
 tqdm==4.64.0
